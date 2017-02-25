@@ -1,0 +1,73 @@
+name: servestcharles
+analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:ServeSt.Charles@gmail.com'
+    label: Contact the Team
+  - type: external
+    url: 'http://www.servestcharles.org/give/'
+    label: Donate Here
+github: true
+description: >-
+  Serve St. Charles was born as the local mission arm of Refuge Church in St.
+  Charles, Missouri. We are a non-profit that serves the people and community of
+  St. Charles, Missouri. Supported by Refuge Church and Ridgecrest Baptist
+  Church we are made possible by our wonderful volunteers.
+author:
+  name: Amanda Hoffman
+  url: 'http://ServeStCharles.org'
+  email: ServeSt.Charles@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f378b9e7-4f53-47ed-a07b-4d4d3f038026.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f378b9e7-4f53-47ed-a07b-4d4d3f038026.png
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+layout_spectrum: 0.9302253541220349
+color:
+  lightness: 0.5551386842186019
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  saturation: 0.6691470071405062
+  brandStrength: 0.1523732627257889
+  rhythmicContrast: 0.07620701304627675
+content_rating:
+  adult: false
+typography_spectrum: 0.4483854642816552
+opengraph: {}
+title: Serve St. Charles Non-Profit
